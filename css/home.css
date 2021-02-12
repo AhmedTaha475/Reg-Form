@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.login{
+    background-color: #24353F;
+    height: 100vh;
+}
+.row .item{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    background-color: #24353F;
+}
+nav .logo{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+nav{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    background-color: #24353F;
+}
