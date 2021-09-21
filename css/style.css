@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.login{
+    background-color: #24353F;
+    height: 100vh;
+}
+.square .form-group input{
+    background-color: transparent;
+    color: white;
+    margin: auto;
+    width: 90%;
+}
+.square{
+    
+    
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.w-90{
+    width: 90%;
+    
+}
+.square p a{
+    color: white;
+    text-decoration: none;
+}
+.square p a:hover{
+   text-decoration: underline;
+}
+#valid{
+    font-size: 18px;
+}
+#Pattern{
+    width: 90%;
+    margin: auto;
+    
+}
+.form-control{
+    width: 90%;
+    margin: auto;
+}
